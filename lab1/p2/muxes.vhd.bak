@@ -1,0 +1,15 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+--simple multiplexers
+
+ENTITY muxes IS
+	--s <= sw9, y0-3 <= sw0-3, x0-3 <= sw4-7
+	PORT(x1,x2,x3,x4 :IN 	STD_LOGIC_VECTOR(7 DOWNTO 4);
+		  y1,y2,y3,y4 :IN 	STD_LOGIC_VECTOR(3 DOWNTO 0);
+		  m1,m2,m3,m4 :OUT 	STD_LOGIC_VECTOR(7 DOWNTO 4);
+		  );
+END muxes;
+
+
+

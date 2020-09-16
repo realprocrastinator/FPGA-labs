@@ -1,0 +1,16 @@
+Quartus II Archive log --	D:/MyOnedrive/OneDrive - UNSW/UNSW CS/9222_Digital_Circuits/lab/lab1/p3/output_files/JiaWeiGao_5242283_L01P3.qarlog
+
+Archive:	D:/MyOnedrive/OneDrive - UNSW/UNSW CS/9222_Digital_Circuits/lab/lab1/p3/output_files/JiaWeiGao_5242283_L01P3.qar
+Date:		Thu Sep 17 11:52:29 2020
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/MyOnedrive/OneDrive - UNSW/UNSW CS/9222_Digital_Circuits/lab/lab1/p3/L1P3.qpf
+D:/MyOnedrive/OneDrive - UNSW/UNSW CS/9222_Digital_Circuits/lab/lab1/p3/incremental_db/compiled_partitions/mux_2bit_3to1.db_info
+D:/MyOnedrive/OneDrive - UNSW/UNSW CS/9222_Digital_Circuits/lab/lab1/p3/mux_2bit_3to1.qsf
+D:/MyOnedrive/OneDrive - UNSW/UNSW CS/9222_Digital_Circuits/lab/lab1/p3/mux_2bit_3to1.vhd
+d:/quartus/quartus/bin64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
